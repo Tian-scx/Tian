@@ -2,5 +2,5 @@ package com.bjpowernode.domain;
 
 public class Person {
     private int id;
-    private String name1;
+    private String name2;
 }
